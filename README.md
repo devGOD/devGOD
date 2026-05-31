@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devGOD
-- 👀 I’m interested in all things coding
+- 👋 @devGOD
+- 👀 all things coding
 - 📫 How to reach me ...?
 
 <!---
